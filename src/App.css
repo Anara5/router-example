@@ -1,0 +1,11 @@
+.Nav {
+  background-color: rgb(50, 177, 241);
+}
+
+.active {
+  background: orange;
+}
+
+.users {
+  margin-left: 5%;
+}
